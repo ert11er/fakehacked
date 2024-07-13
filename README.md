@@ -1,1 +1,1 @@
-please note that this is no a virus
+please note that this is not a virus
